@@ -35,7 +35,7 @@
     "svelte-extras": "^2.0.2",
     "svelte-transitions-slide": "^1.0.0",
     "svelte-upgrade": "^1.0.14",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "underscore-es": "^1.9.8",
     "watch": "^1.0.2"
   },
